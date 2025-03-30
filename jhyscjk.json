@@ -1,8 +1,10 @@
 {
 "storeHouse": [
-{"sourceName":"这是一个影视仓接口","sourceUrl":"https://zheshigelizi.com/duomv/apps/-/raw/main/b.txt"},
-{"sourceName":"影视仓接口一","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/b.txt"},
-{"sourceName":"影视仓接口二","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
-{"sourceName":"影视仓接口三","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/c.txt"},
-{"sourceName":"影视仓接口四","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/d.txt"}
+{"sourceName":"王小二","sourceUrl":"http://tvbox.王二小放牛娃.top"},
+{"sourceName":"OK影视","sourceUrl":"http://ok321.top/tv"},
+{"sourceName":"饭太硬","sourceUrl":"http://fty.xxooo.cf/tv"},
+{"sourceName":"摸鱼儿","sourceUrl":"http://我不是.摸鱼儿.com"},
+{"sourceName":"肥猫","sourceUrl":"http://肥猫.com"},
+{"sourceName":"巧计","sourceUrl":"http://cdn.qiaoji8.com/tvbox.json"},
+{"sourceName":"香雅情","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"}
 ]}
