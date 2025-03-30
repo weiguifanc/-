@@ -1,10 +1,55 @@
+# TVbox多仓源
+
 {
-"storeHouse": [
-{"sourceName":"王小二","sourceUrl":"http://tvbox.王二小放牛娃.top"},
-{"sourceName":"OK影视","sourceUrl":"http://ok321.top/tv"},
-{"sourceName":"饭太硬","sourceUrl":"http://fty.xxooo.cf/tv"},
-{"sourceName":"摸鱼儿","sourceUrl":"http://我不是.摸鱼儿.com"},
-{"sourceName":"肥猫","sourceUrl":"http://肥猫.com"},
-{"sourceName":"巧计","sourceUrl":"http://cdn.qiaoji8.com/tvbox.json"},
-{"sourceName":"香雅情","sourceUrl":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"}
-]}
+
+    "urls": [
+
+        {
+
+            "url": "",
+
+            "name": "2025.3.30" 
+        },
+
+        {
+
+            "url": "",
+
+            "name": "雁未归" 
+        },
+
+        {
+
+            "url": "http://tvbox.王二小放牛娃.top", 
+            "name": "王小二" 
+        }, 
+        { 
+            "url": "http://ok321.top/tv", 
+            "name": "OK影视" 
+        },
+
+       {
+
+            "url": "http://fty.xxooo.cf/tv", 
+            "name": "饭太硬" 
+        }, 
+         { 
+            "url": "http://肥猫.com", 
+            "name": "肥猫" 
+        }, 
+        { 
+            "url": "http://我不是.摸鱼儿.com", 
+            "name": "摸鱼儿" 
+        }, 
+        { 
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", 
+            "name": "香雅情" 
+        }, 
+        { 
+            "url": "http://cdn.qiaoji8.com/tvbox.json", 
+            "name": "巧计" 
+        }
+
+    ]
+
+}
